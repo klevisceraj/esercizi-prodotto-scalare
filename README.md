@@ -1,0 +1,1 @@
+# esercizi-prodotto-scalare
